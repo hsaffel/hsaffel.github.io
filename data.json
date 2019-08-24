@@ -1,0 +1,16 @@
+{
+	"username": "hsaffel",
+	"goals": [{
+			"goal": "Learn",
+			"confidence": 10
+		},
+		{
+			"goal": "Begin a lasting project",
+			"confidence": 4
+		},
+		{
+			"goal": "Survive Japanese",
+			"confidence": 8
+		}
+	]
+}
